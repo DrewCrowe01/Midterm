@@ -3,7 +3,7 @@
 ## Reproducibility and Code
 This dashboard presents a visually compelling and data-driven overview of key Pokémon statistics
 
-[View the Dashboard on Tableau Public](https://us-east-1.online.tableau.com/t/dsba5122fall24/views/Pokemon_Dashboard/PokemonOverview) 
+[View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/drew.crowe/viz/Midterm_17298818593900/PokemonOverview?publish=yes) 
 
 ## Readme
 
